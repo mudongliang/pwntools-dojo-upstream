@@ -34,19 +34,11 @@ challenges:
   - id: level-3-0
     name: Level 3.0
 
-# resources:
-#   # - name: "Pwntools 使用教程"
-#   #   type: lecture
-#   #   video: "405113607"
-#   #   playlist: "BV1oG411o7A4"
-#   #   slides: Pwntools
-#   # - name: "gdb 结合 pwntools 调试教程"
-#   #   type: lecture
-#   #   video: "532863345"
-#   #   playlist: "BV1Du411N7c9"
-#   #   slides: GDB
-#   - name: "References"
-#     type: markdown
-#     content: |
-#       - [Pwntools 中文文档](https://pwntools-docs-zh.readthedocs.io/zh-cn/dev/)
-#       - [pwntools 最常见用法](https://pwntools-docs-zh.readthedocs.io/zh-cn/dev/globals.html)
+  - id: level-4-0
+    name: Level 4.0
+
+resources:
+   - name: "References"
+     type: markdown
+     content: |
+       - [Pwntools Tutorials](https://docs.pwntools.com/en/stable/)
